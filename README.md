@@ -1016,7 +1016,7 @@
       </div>
 
       <div class="footer-bottom">
-        <p>© 2025 KELVINE_SESSION. All rights reserved.</p>
+        <p>© 2025 KELVIN_SESSION. All rights reserved.</p>
         <div class="legal-links">
           <a href="#">Privacy Policy</a>
           <a href="#">Terms of Service</a>
